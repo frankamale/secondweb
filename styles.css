@@ -3,7 +3,7 @@ body{
   top: 100px;
   left: 30px;
   font-size: 20px;
-  background-image: url("emit.png");
+  background-image: url("emit.PNG");
   background-attachment: fixed;
 }
 h1, h2 {
